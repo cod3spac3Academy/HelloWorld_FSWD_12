@@ -1,11 +1,11 @@
-# HelloWorld_FSWD_{change-edition}
+# HelloWorld_FSWD_12
 
 <p align="center">
     <img src="https://codespaceacademy.com/wp-content/uploads/2021/02/logo-negro.png" >	
 </p>
 
 
-## ¿Qué es este proyecto HelloWorld_FSWD_{change-edition}?
+## ¿Qué es este proyecto HelloWorld_FSWD_12?
 ```
 Este repositorio es una adaptación de la guía oficial de github 'guides-lines'. 
 Será nuestro punto de partida, como trabajo en equipo.
