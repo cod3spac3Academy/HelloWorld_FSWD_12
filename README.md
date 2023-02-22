@@ -23,3 +23,4 @@ Bienvenido a la nave, ¡despegamos!
 | :-------: | :-------: | :------: | :------: | :-------: |
 | 0 | Ch3ssMaster | Antonio | Cebrián | [bitGames](https://github.com/Ch3ssMaster/bitgames) |
 | 1 | RoarCriss | Cristina | Martín | [GitHub RoarCriss](https://github.com/RoarCriss) |
+| 2 | javiersierrag | Javier | Sierra | [GitHub Profile](https://github.com/javiersierrag) |
