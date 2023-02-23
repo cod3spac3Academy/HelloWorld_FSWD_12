@@ -26,3 +26,4 @@ Bienvenido a la nave, ¡despegamos!
 | 2 | javiersierrag | Javier | Sierra | [GitHub Profile](https://github.com/javiersierrag) |
 |3|iliaA|Ilia|Altea|[GitHubProfile](https://github.com/IliaAltea)
 | 4 | C4rlosca | Carlos | Caraballo | [GitHub C4rlosca](https://github.com/C4rlosca)
+| 5 | ClaraMars | Clara | Márquez | [GitHub ClaraMars](https://github.com/ClaraMars)
