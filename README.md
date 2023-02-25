@@ -27,3 +27,4 @@ Bienvenido a la nave, ¡despegamos!
 |3|iliaA|Ilia|Altea|[GitHubProfile](https://github.com/IliaAltea)
 | 4 | C4rlosca | Carlos | Caraballo | [GitHub C4rlosca](https://github.com/C4rlosca)
 | 5 | ClaraMars | Clara | Márquez | [GitHub ClaraMars](https://github.com/ClaraMars)
+| 6 | EstefaniaTamCri | Estefania | Tamayo | [GitHubEstefaniaTamCri](https://github.com/EstefaniaTamCri)
